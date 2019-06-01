@@ -1,0 +1,21 @@
+.parent {
+	display: flex;
+	text-align: center;
+	font-family: ARIAL
+}
+h3 {
+	font-size: 25
+}
+p {
+	color: red
+}
+div {
+	margin-left: 25px
+}
+h1 {
+	font-size: 30px;
+	font-family: ARIAL;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	margin-top: 50px
+}
